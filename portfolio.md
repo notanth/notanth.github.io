@@ -1,0 +1,17 @@
+# Portfolio
+
+Welcome to my project portfolio! Here you’ll soon find detailed case studies and walkthroughs showcasing my skills in:
+
+- **Python for Data Analysis:** Exploratory data analysis, automation, and business insights
+- **SQL:** Data extraction, transformation, and reporting from large datasets
+- **Business Intelligence:** Interactive dashboards and visualizations using Tableau, Mode Analytics, and Google/Looker Data Studio
+
+---
+
+## Featured Projects
+
+*Coming soon!*
+
+---
+
+[⬅️ Back to Home](index.md)
