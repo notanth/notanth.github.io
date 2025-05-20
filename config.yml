@@ -17,7 +17,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/anthonycanzona/"
+      url: "https://www.linkedin.com/in/anthonyscanzona/"
     - label: "📰 Substack: Anth’s Newsletter"
       icon: "fas fa-newspaper"
       url: "https://anth.substack.com/"
@@ -25,30 +25,14 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/notanth"
 
-# Site navigation
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
-
-defaults:
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: true
-
 # Navigation bar
 navigation:
   - title: "Home"
     url: /
-  - title: "Experience"
-    url: /about/
-  - title: "Projects"
-    url: /projects/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Let's Connect"
-    url: /connect/
+    url: /#lets-connect
 
 # Plugins (GitHub Pages safe list)
 plugins:
@@ -58,13 +42,14 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Pagination (for blog if you add posts)
-paginate: 5
-paginate_path: /page:num/
-
 # Markdown & syntax highlighting
 markdown: kramdown
 highlighter: rouge
+
+# Minimal Mistakes theme options
+minimal_mistakes_skin: "air" # Options: air, dark, mint, neon, etc.
+search: true
+logo: "" # Optional: add path to logo image if you have one
 
 # Exclude from build
 exclude:
@@ -72,8 +57,3 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
-
-# Minimal Mistakes theme options
-minimal_mistakes_skin: "air" # Options: air, dark, mint, neon, etc.
-search: true
-logo: "/assets/images/logo.png" # Optional - remove if no logo
