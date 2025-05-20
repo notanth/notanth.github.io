@@ -17,7 +17,7 @@ Welcome to my portfolio! I’m Anthony Canzona, a financial analyst with 6+ year
 - [Experience Snapshot](#experience-snapshot)
 - [Skills](#skills)
 - [Education & Certifications](#education--certifications)
-- [Portfolio (Projects)](portfolio.md)
+- Visit the [Portfolio page](portfolio.md) for detailed case studies and project walkthroughs.
 - [Let’s Connect](#lets-connect)
 
 ---
