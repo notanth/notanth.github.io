@@ -30,7 +30,7 @@ With a strong foundation in financial analysis and business partnership, I speci
 
 ## Current Focus
 
-- Completing Datacamp’s Data Analyst certifications (Python, SQL, Power BI)
+- Completing Datacamp’s Data Analyst certifications (Python, SQL)
 - Developing end-to-end analytics projects to bridge finance and data science
 - Applying advanced Python and SQL to real-world business problems
 
