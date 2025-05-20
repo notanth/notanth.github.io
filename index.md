@@ -4,7 +4,6 @@ title: "Anthony Canzona — Data Portfolio"
 author_profile: true
 ---
 
-
 # Anthony Canzona — Data Portfolio
 
 Welcome to my portfolio! I’m Anthony Canzona, a financial analyst with 6+ years of experience in FP&A, financial modeling, and data analytics for tech and e-commerce firms. I’m currently upskilling in Python and SQL, leveraging my finance background to deliver actionable insights and drive business impact.
