@@ -32,24 +32,20 @@ With a strong foundation in financial analysis and business partnership, I speci
 
 ## Experience Snapshot
 
-**Financial Modeling & Analysis Consultant**  
-_Freelance & Upskilling, Remote (Apr 2024 - Present)_  
-- Completed UM’s Python for Everybody & MIT’s CS50 Python coursework
-- Graduated from Pybites’ Python Developer Mindset Bootcamp (Oct 2024)
-- Provided financial modeling support and workforce analysis for real estate client
-- Actively pursuing Datacamp Data Analyst certifications in Python, SQL & Power BI
+**Volusion**  
+*E-commerce Platform — 2 years*  
+Volusion is a leading all-in-one ecommerce solution based in Austin, Texas, empowering entrepreneurs and small businesses to build, manage, and grow their online storefronts with robust tools for site building, product management, and digital commerce.  
+At Volusion, I led financial planning and analysis to support a platform that powers thousands of online stores. My work enabled multi-million dollar EBITDA improvements, drove strategic budgeting, and delivered actionable analytics to business leaders—helping the company and its clients remain competitive in the rapidly evolving ecommerce landscape.
 
-**Senior Financial Analyst, FP&A**  
-_Volusion, Austin, TX (Jun 2022 - Mar 2024)_  
-- Enabled $3M YoY EBITDA improvement by crafting annual budget processes from scratch
-- Led monthly budget vs. actual reviews and flagged risks to targets
-- Acted as finance business partner, leading analytics for payments overhaul (Stripe implementation)
-- Built self-service dashboards and reporting via BigQuery & Looker Data Studio
+**Eaze Technologies**  
+*Cannabis Delivery Platform — 3 years*  
+Eaze is a pioneering cannabis technology company, providing safe and legal delivery of cannabis products across California.  
+At Eaze, I owned company-wide P&L forecasting and business review reporting, collaborating across teams to inform executives of performance and risks. I developed dashboards and reporting in Mode Analytics and Tableau, supporting data-driven decisions in a highly regulated, fast-scaling industry.
 
-**Additional Experience:**  
-- **Gopuff:** Built Looker dashboards and modernized inventory tracking  
-- **Eaze Technologies:** Owned P&L forecasts, created dashboards in Mode Analytics & Tableau, contributed to corporate development  
-- **Amazon Web Services:** Led FP&A for fixed operating expenses, automated dashboards using SQL and Excel
+**Amazon Web Services (AWS)**  
+*Cloud Computing — 2 years (including internship)*  
+AWS is the world’s leading cloud services provider, enabling businesses of all sizes to scale with secure, reliable infrastructure and advanced analytics.  
+At AWS, I managed financial analysis for fixed operating expenses and led month-end reviews for critical P&L items. Leveraging SQL and Excel, I automated dashboards and reporting, supporting the financial rigor and scalability that underpin AWS’s global cloud operations.
 
 ---
 
