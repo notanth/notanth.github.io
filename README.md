@@ -77,6 +77,9 @@ _Volusion, Austin, TX (Jun 2022 - Mar 2024)_
 I’m open to collaboration, mentorship, and new opportunities in analytics and data science.  
 Check back soon for project updates!
 
+[🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/anthonyscanzona/)
+
+
 > **Note:** This portfolio is a work in progress as I transition into the data analytics field. Projects and case studies will be added regularly.
 
 ---
