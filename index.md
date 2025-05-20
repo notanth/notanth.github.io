@@ -65,9 +65,9 @@ At AWS, I managed financial analysis for fixed operating expenses and led month-
 
 ## Education & Certifications
 
-- **Datacamp Associate Data Analyst Certification** (SQL, Python, Power BI) — *In Progress*
-- **Pybites Developer Mindset (PDM) Bootcamp** — *Graduated: Oct 2024*
-- **University of Cincinnati, BBA in Finance** — *Graduated: Dec 2016*
+- **Datacamp Associate Data Analyst Certification** (SQL, Python) — *In Progress*
+- **Pybites Developer Mindset (PDM) Bootcamp** — *Graduated: Oct. 2024*
+- **University of Cincinnati, BBA in Finance** — *Graduated: Dec. 2016*
 
 ---
 
