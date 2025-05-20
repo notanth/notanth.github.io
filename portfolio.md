@@ -24,6 +24,13 @@ Welcome to my project portfolio! Here you’ll soon find detailed case studies a
 - **Case Study: Quarterly Business Insights for SaaS**
   - [View Slide Deck (PDF)](/assets/pdfs/Case Study - ARR - Portfolio-2.pdf)
 
+
+### Data Analysis
+- **To be completed
+
+### Data Science
+- **To be completed
+
 ---
 
 *More coming soon!*
