@@ -73,8 +73,8 @@ At AWS, I managed financial analysis for fixed operating expenses and led month-
 
 ## Let’s Connect
 
-[🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/anthonyscanzona/)
-[📰 Substack: Anth’s Newsletter](https://anth.substack.com/)
+- [🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/anthonyscanzona/)
+- [📰 Substack: Anth’s Newsletter](https://anth.substack.com/)
 
 I’m open to collaboration, mentorship, and new opportunities in analytics and data science.  
 Check back soon for project updates!
