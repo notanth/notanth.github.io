@@ -72,6 +72,7 @@ _Volusion, Austin, TX (Jun 2022 - Mar 2024)_
 ## Let’s Connect
 
 [🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/anthonyscanzona/)
+[📰 Substack: Anth’s Newsletter](https://anth.substack.com/)
 
 I’m open to collaboration, mentorship, and new opportunities in analytics and data science.  
 Check back soon for project updates!
