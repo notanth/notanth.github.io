@@ -57,7 +57,7 @@ At AWS, I managed financial analysis for fixed operating expenses and led month-
 
 ## Skills
 
-- **Programming & Analytics:** Python, SQL, Tableau, Mode Analytics, Looker, Google BigQuery, Power BI
+- **Programming & Analytics:** Python, SQL, Tableau, Mode Analytics, Looker, Google BigQuery
 - **Financial Tools:** Excel, Oracle Financials, TM1, QuickBooks, Xero, Sage Intacct
 - **Collaboration:** Business partnership, cross-functional communication, strategic finance
 
