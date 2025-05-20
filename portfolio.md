@@ -19,7 +19,12 @@ Welcome to my project portfolio! Here you’ll soon find detailed case studies a
 
 ## Featured Projects
 
-*Coming soon!*
+- **Case Study: Business Insights for Retail**
+  - [View Slide Deck (PDF)](/assets/pdfs/Case Study - ARR - Portfolio-2.pdf)
+
+---
+
+*More coming soon!*
 
 ---
 
