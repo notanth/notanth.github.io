@@ -1,27 +1,24 @@
-# notanth.github.io
-Anthony Canzona's data portfolio
-
 # Anthony Canzona — Data Portfolio
 
 Welcome to my portfolio! I’m Anthony Canzona, a financial analyst with 6+ years of experience in FP&A, financial modeling, and data analytics for tech and e-commerce firms. I’m currently upskilling in Python and SQL to transition into a data analytics or data science role, leveraging my finance background to deliver actionable insights and drive business impact.
 
 ---
 
-## About Me
+## 📑 Table of Contents
 
-With a strong foundation in financial analysis and business partnership, I specialize in translating complex data into clear, actionable strategies. My toolkit includes Python, SQL, Tableau, Mode Analytics, and Google BigQuery. I thrive on continuous learning and am actively pursuing Data Analyst certifications through Datacamp, focusing on Python and SQL.
+- [About Me](#about-me)
+- [Current Focus](#current-focus)
+- [Experience Snapshot](#experience-snapshot)
+- [Skills](#skills)
+- [Education & Certifications](#education--certifications)
+- [Portfolio (Projects)](portfolio.md)
+- [Let’s Connect](#lets-connect)
 
 ---
 
-## Portfolio (Coming Soon)
+## About Me
 
-This section will soon feature hands-on projects that demonstrate my skills in:
-
-- **Python for Data Analysis:** Exploratory data analysis, automation, and business insights.
-- **SQL:** Data extraction, transformation, and reporting from large datasets.
-- **Business Intelligence:** Interactive dashboards and visualizations using Tableau, Mode Analytics, and Google/Looker Data Studio.
-
-Stay tuned for detailed case studies and project walkthroughs!
+With a strong foundation in financial analysis and business partnership, I specialize in translating complex data into clear, actionable strategies. My toolkit includes Python, SQL, Tableau, Mode Analytics, and Google BigQuery. I thrive on continuous learning and am actively pursuing Data Analyst certifications through Datacamp, focusing on Python and SQL.
 
 ---
 
@@ -74,11 +71,10 @@ _Volusion, Austin, TX (Jun 2022 - Mar 2024)_
 
 ## Let’s Connect
 
-I’m open to collaboration, mentorship, and new opportunities in analytics and data science.  
-Check back soon for project updates!
-
 [🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/anthonyscanzona/)
 
+I’m open to collaboration, mentorship, and new opportunities in analytics and data science.  
+Check back soon for project updates!
 
 > **Note:** This portfolio is a work in progress as I transition into the data analytics field. Projects and case studies will be added regularly.
 
